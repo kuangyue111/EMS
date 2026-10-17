@@ -1,0 +1,37 @@
+# 压缩包与归档
+*.rar
+*.zip
+*.tar.gz
+*.tar.xz
+*.7z
+
+# 编译产物
+*.o
+*.d
+*.a
+*.args
+*.elf
+*.hex
+*.bin
+*.map
+
+# 工具链与依赖（不应进仓库）
+buildroot*/
+buildroot-*/
+
+# 系统与运行时目录
+usr/
+test/
+
+# 安装包
+*.deb
+
+# 个人文件
+个人简历*.pdf
+个人简历*.docx
+送礼*.pdf
+
+# IDE 与构建缓存
+Debug/
+Release/
+.cache/

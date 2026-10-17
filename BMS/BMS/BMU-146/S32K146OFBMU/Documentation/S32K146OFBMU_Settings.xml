@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PE_PROJECT_SETTINGS_DOCUMENTATION>
+  <PE_product_version v="version 10.1 for Internal Usage Only" />
+  <PE_core_version v="Processor Expert Version 0521" />
+  <CPU_Bean name="Cpu" type="S32K146_100">
+    <Enabled v="Y" />
+    <Properties>
+      <Component_name v="Cpu" />
+      <CPU_type v="S32K146_100" />
+    </Properties>
+    <Methods>
+      <EmptySection_DummyValue />
+    </Methods>
+    <Events>
+      <Event_module_name v="Events" />
+    </Events>
+    <Compiler v="GNU C Compiler" />
+    <CompilerProperties>
+      <Compiler v="GNU C Compiler" />
+      <boolgroup name="Generate linker file" v="no" />
+    </CompilerProperties>
+  </CPU_Bean>
+  <Bean name="pin_mux" type="PinSettings">
+    <Enabled v="Y" />
+    <Properties>
+      <Component_name v="pin_mux" />
+      <PinSettings_IP_Block v="PinSettings" />
+      <Processor v="S32K146_100" />
+      <group name="Settings">
+        <EmptySection_DummyValue />
+      </group>
+    </Properties>
+    <Methods>
+      <EmptySection_DummyValue />
+    </Methods>
+    <Events>
+      <EmptySection_DummyValue />
+    </Events>
+  </Bean>
+  <Bean name="clockMan1" type="clock_manager">
+    <Enabled v="Y" />
+    <Properties>
+      <Component_name v="clockMan1" />
+      <Component_version v="S32_SDK_S32K" />
+      <group name="">
+        <list name="Callbacks" v="1">
+          <boolgroup name="Configuration0" v="Disabled" />
+        </list>
+        <group name="Shared components">
+          <interrupt_manager v="intMan1" />
+        </group>
+      </group>
+    </Properties>
+    <Methods>
+      <EmptySection_DummyValue />
+    </Methods>
+    <Events>
+      <EmptySection_DummyValue />
+    </Events>
+  </Bean>
+  <Bean name="intMan1" type="interrupt_manager">
+    <Enabled v="Y" />
+    <Properties>
+      <Component_name v="intMan1" />
+      <Component_version v="S32K144_SDK01" />
+    </Properties>
+    <Methods>
+      <EmptySection_DummyValue />
+    </Methods>
+    <Events>
+      <EmptySection_DummyValue />
+    </Events>
+  </Bean>
+  <Bean name="FreeRTOS" type="FreeRTOS">
+    <Enabled v="Y" />
+    <Properties>
+      <Component_name v="FreeRTOS" />
+      <FreeRTOS_version v="&amp;quot;V10.0.1&amp;quot;" />
+      <Component_version v="S32K144_SDK01" />
+    </Properties>
+    <Methods>
+      <EmptySection_DummyValue />
+    </Methods>
+    <Events>
+      <EmptySection_DummyValue />
+    </Events>
+  </Bean>
+  <Bean name="osif1" type="osif">
+    <Enabled v="Y" />
+    <Properties>
+      <Component_name v="osif1" />
+      <Component_version v="osifcommon" />
+    </Properties>
+    <Methods>
+      <EmptySection_DummyValue />
+    </Methods>
+    <Events>
+      <EmptySection_DummyValue />
+    </Events>
+  </Bean>
+  <Bean name="uart1_pal" type="uart_pal">
+    <Enabled v="Y" />
+    <Properties>
+      <Component_name v="uart1_pal" />
+      <Device v="LPUART0" />
+      <Flexio_uart_instance v="FLEXIO_UART0" />
+      <Component_version v="S32K144_SDK01" />
+    </Properties>
+    <Methods>
+      <EmptySection_DummyValue />
+    </Methods>
+    <Events>
+      <EmptySection_DummyValue />
+    </Events>
+  </Bean>
+  <Bean name="uart2_pal" type="uart_pal">
+    <Enabled v="Y" />
+    <Properties>
+      <Component_name v="uart2_pal" />
+      <Device v="LPUART1" />
+      <Flexio_uart_instance v="FLEXIO_UART0" />
+      <Component_version v="S32K144_SDK01" />
+    </Properties>
+    <Methods>
+      <EmptySection_DummyValue />
+    </Methods>
+    <Events>
+      <EmptySection_DummyValue />
+    </Events>
+  </Bean>
+  <Bean name="uart3_pal" type="uart_pal">
+    <Enabled v="Y" />
+    <Properties>
+      <Component_name v="uart3_pal" />
+      <Device v="LPUART2" />
+      <Flexio_uart_instance v="FLEXIO_UART0" />
+      <Component_version v="S32K144_SDK01" />
+    </Properties>
+    <Methods>
+      <EmptySection_DummyValue />
+    </Methods>
+    <Events>
+      <EmptySection_DummyValue />
+    </Events>
+  </Bean>
+  <Bean name="spi1_pal" type="spi_pal">
+    <Enabled v="Y" />
+    <Properties>
+      <Component_name v="spi1_pal" />
+      <Device v="LPSPI0" />
+      <Component_version v="S32K144_SDK01" />
+    </Properties>
+    <Methods>
+      <EmptySection_DummyValue />
+    </Methods>
+    <Events>
+      <EmptySection_DummyValue />
+    </Events>
+  </Bean>
+  <Bean name="spi2_pal" type="spi_pal">
+    <Enabled v="Y" />
+    <Properties>
+      <Component_name v="spi2_pal" />
+      <Device v="LPSPI1" />
+      <Component_version v="S32K144_SDK01" />
+    </Properties>
+    <Methods>
+      <EmptySection_DummyValue />
+    </Methods>
+    <Events>
+      <EmptySection_DummyValue />
+    </Events>
+  </Bean>
+  <Bean name="spi3_pal" type="spi_pal">
+    <Enabled v="Y" />
+    <Properties>
+      <Component_name v="spi3_pal" />
+      <Device v="LPSPI2" />
+      <Component_version v="S32K144_SDK01" />
+    </Properties>
+    <Methods>
+      <EmptySection_DummyValue />
+    </Methods>
+    <Events>
+      <EmptySection_DummyValue />
+    </Events>
+  </Bean>
+  <Bean name="adc1_pal" type="adc_pal">
+    <Enabled v="Y" />
+    <Properties>
+      <Component_name v="adc1_pal" />
+      <Component_version v="S32_SDK" />
+    </Properties>
+    <Methods>
+      <EmptySection_DummyValue />
+    </Methods>
+    <Events>
+      <EmptySection_DummyValue />
+    </Events>
+  </Bean>
+  <Bean name="adc2_pal" type="adc_pal">
+    <Enabled v="Y" />
+    <Properties>
+      <Component_name v="adc2_pal" />
+      <Component_version v="S32_SDK" />
+    </Properties>
+    <Methods>
+      <EmptySection_DummyValue />
+    </Methods>
+    <Events>
+      <EmptySection_DummyValue />
+    </Events>
+  </Bean>
+  <Bean name="i2c1" type="i2c_pal">
+    <Enabled v="Y" />
+    <Properties>
+      <Component_name v="i2c1" />
+      <Device v="LPI2C0" />
+      <Component_version v="S32K144_SDK01" />
+    </Properties>
+    <Methods>
+      <EmptySection_DummyValue />
+    </Methods>
+    <Events>
+      <EmptySection_DummyValue />
+    </Events>
+  </Bean>
+  <Bean name="wdg_pal1" type="wdg_pal">
+    <Enabled v="Y" />
+    <Properties>
+      <Component_name v="wdg_pal1" />
+      <Device v="WDOG" />
+      <Component_version v="S32_SDK" />
+    </Properties>
+    <Methods>
+      <EmptySection_DummyValue />
+    </Methods>
+    <Events>
+      <EmptySection_DummyValue />
+    </Events>
+  </Bean>
+  <Bean name="lpit1" type="lpit">
+    <Enabled v="Y" />
+    <Properties>
+      <Component_name v="lpit1" />
+      <Device v="LPIT0" />
+      <Component_version v="S32K144_SDK01" />
+    </Properties>
+    <Methods>
+      <EmptySection_DummyValue />
+    </Methods>
+    <Events>
+      <EmptySection_DummyValue />
+    </Events>
+  </Bean>
+  <Bean name="lpTmr1" type="lptmr">
+    <Enabled v="Y" />
+    <Properties>
+      <Component_name v="lpTmr1" />
+      <Device v="LPTMR0" />
+      <Component_version v="S32K144_SDK01" />
+    </Properties>
+    <Methods>
+      <EmptySection_DummyValue />
+    </Methods>
+    <Events>
+      <EmptySection_DummyValue />
+    </Events>
+  </Bean>
+  <Bean name="rtcTimer1" type="rtc">
+    <Enabled v="Y" />
+    <Properties>
+      <Component_name v="rtcTimer1" />
+      <Device v="RTC" />
+      <Component_version v="S32K144_SDK01" />
+    </Properties>
+    <Methods>
+      <EmptySection_DummyValue />
+    </Methods>
+    <Events>
+      <EmptySection_DummyValue />
+    </Events>
+  </Bean>
+  <Bean name="flexio_spi1" type="flexio_spi">
+    <Enabled v="Y" />
+    <Properties>
+      <Component_name v="flexio_spi1" />
+      <Device v="FLEXIO" />
+      <Component_version v="S32K144_SDK01" />
+    </Properties>
+    <Methods>
+      <EmptySection_DummyValue />
+    </Methods>
+    <Events>
+      <EmptySection_DummyValue />
+    </Events>
+  </Bean>
+  <Bean name="flash_config" type="flash">
+    <Enabled v="Y" />
+    <Properties>
+      <Component_name v="flash_config" />
+      <Device v="FTFC" />
+      <Component_version v="S32K144_SDK01" />
+    </Properties>
+    <Methods>
+      <EmptySection_DummyValue />
+    </Methods>
+    <Events>
+      <EmptySection_DummyValue />
+    </Events>
+  </Bean>
+  <Bean name="dmaController1" type="edma">
+    <Enabled v="Y" />
+    <Properties>
+      <Component_name v="dmaController1" />
+      <Device v="DMA" />
+      <Component_version v="S32_SDK_DMA_16CH" />
+    </Properties>
+    <Methods>
+      <EmptySection_DummyValue />
+    </Methods>
+    <Events>
+      <EmptySection_DummyValue />
+    </Events>
+  </Bean>
+  <Bean name="flexTimer_mc1" type="ftm_mc">
+    <Enabled v="Y" />
+    <Properties>
+      <Component_name v="flexTimer_mc1" />
+      <Device v="FTM1" />
+      <Component_version v="S32K144_SDK01" />
+    </Properties>
+    <Methods>
+      <EmptySection_DummyValue />
+    </Methods>
+    <Events>
+      <EmptySection_DummyValue />
+    </Events>
+  </Bean>
+  <Bean name="flexTimer_pwm1" type="ftm_pwm">
+    <Enabled v="Y" />
+    <Properties>
+      <Component_name v="flexTimer_pwm1" />
+      <Device v="FTM3" />
+      <Component_version v="S32K144_SDK01" />
+    </Properties>
+    <Methods>
+      <EmptySection_DummyValue />
+    </Methods>
+    <Events>
+      <EmptySection_DummyValue />
+    </Events>
+  </Bean>
+  <Bean name="flexTimer_ic1" type="ftm_ic">
+    <Enabled v="Y" />
+    <Properties>
+      <Component_name v="flexTimer_ic1" />
+      <Device v="FTM2" />
+      <Component_version v="S32K144_SDK01" />
+    </Properties>
+    <Methods>
+      <EmptySection_DummyValue />
+    </Methods>
+    <Events>
+      <EmptySection_DummyValue />
+    </Events>
+  </Bean>
+  <Bean name="pwm_pal1" type="pwm_pal">
+    <Enabled v="Y" />
+    <Properties>
+      <Component_name v="pwm_pal1" />
+      <Device v="FTM0" />
+      <Component_version v="S32K144_SDK01" />
+    </Properties>
+    <Methods>
+      <EmptySection_DummyValue />
+    </Methods>
+    <Events>
+      <EmptySection_DummyValue />
+    </Events>
+  </Bean>
+  <Bean name="can1_pal" type="can_pal">
+    <Enabled v="Y" />
+    <Properties>
+      <Component_name v="can1_pal" />
+      <Device v="CAN0" />
+      <Component_version v="S32_SDK" />
+    </Properties>
+    <Methods>
+      <EmptySection_DummyValue />
+    </Methods>
+    <Events>
+      <EmptySection_DummyValue />
+    </Events>
+  </Bean>
+  <Bean name="can2_pal" type="can_pal">
+    <Enabled v="Y" />
+    <Properties>
+      <Component_name v="can2_pal" />
+      <Device v="CAN1" />
+      <Component_version v="S32_SDK" />
+    </Properties>
+    <Methods>
+      <EmptySection_DummyValue />
+    </Methods>
+    <Events>
+      <EmptySection_DummyValue />
+    </Events>
+  </Bean>
+  <Bean name="can3_pal" type="can_pal">
+    <Enabled v="Y" />
+    <Properties>
+      <Component_name v="can3_pal" />
+      <Device v="CAN2" />
+      <Component_version v="S32_SDK" />
+    </Properties>
+    <Methods>
+      <EmptySection_DummyValue />
+    </Methods>
+    <Events>
+      <EmptySection_DummyValue />
+    </Events>
+  </Bean>
+</PE_PROJECT_SETTINGS_DOCUMENTATION>
+
