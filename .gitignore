@@ -21,7 +21,12 @@ buildroot-*/
 
 # 系统与运行时目录
 usr/
-test/
+
+# test 目录里排除 node_modules 和临时文件，保留源码和学习笔记
+BMS/BMS/test/**/node_modules/
+BMS/BMS/test/**/tmp/
+~$*
+*.ldtmp
 
 # 安装包
 *.deb
