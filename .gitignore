@@ -1,32 +1,16 @@
-# 压缩包与归档
+# 压缩包与归档（大文件，不适合 git）
 *.rar
 *.zip
 *.tar.gz
 *.tar.xz
 *.7z
 
-# 编译产物
-*.o
-*.d
-*.a
-*.args
-*.elf
-*.hex
-*.bin
-*.map
-
-# 工具链与依赖（不应进仓库）
+# 工具链（不应进仓库）
 buildroot*/
 buildroot-*/
 
-# 系统与运行时目录
+# 系统目录
 usr/
-
-# test 目录里排除 node_modules 和临时文件，保留源码和学习笔记
-BMS/BMS/test/**/node_modules/
-BMS/BMS/test/**/tmp/
-~$*
-*.ldtmp
 
 # 安装包
 *.deb
@@ -36,7 +20,10 @@ BMS/BMS/test/**/tmp/
 个人简历*.docx
 送礼*.pdf
 
-# IDE 与构建缓存
-Debug/
-Release/
-.cache/
+# Word 临时锁文件
+~$*
+
+# 知识库索引数据库（可重新生成，体积大）
+*.sqlite
+*.bundle
+BMS_EKF_*.zip

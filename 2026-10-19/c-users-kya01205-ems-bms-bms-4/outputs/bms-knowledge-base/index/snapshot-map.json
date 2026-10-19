@@ -1,0 +1,3548 @@
+[
+  {
+    "source": "BMS",
+    "path": ".cproject",
+    "snapshot": "source-snapshot/BMS/.cproject",
+    "lines": 915
+  },
+  {
+    "source": "BMS",
+    "path": ".project",
+    "snapshot": "source-snapshot/BMS/.project",
+    "lines": 32
+  },
+  {
+    "source": "BMS",
+    "path": "BMS 架构深度剖析_完整版.md",
+    "snapshot": "references/BMS/BMS 架构深度剖析_完整版.md",
+    "lines": 949
+  },
+  {
+    "source": "BMS",
+    "path": "BMS 电流采样与安时积分系统详解.md",
+    "snapshot": "references/BMS/BMS 电流采样与安时积分系统详解.md",
+    "lines": 618
+  },
+  {
+    "source": "BMS",
+    "path": "BMS_30 天学习计划.md",
+    "snapshot": "references/BMS/BMS_30 天学习计划.md",
+    "lines": 596
+  },
+  {
+    "source": "BMS",
+    "path": "Documentation/S32K146OFBMU.txt",
+    "snapshot": "references/BMS/Documentation/S32K146OFBMU.txt",
+    "lines": 853
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/adc1_pal.c",
+    "snapshot": "source-snapshot/BMS/Generated_Code/adc1_pal.c",
+    "lines": 114
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/adc1_pal.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/adc1_pal.h",
+    "lines": 91
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/adc2_pal.c",
+    "snapshot": "source-snapshot/BMS/Generated_Code/adc2_pal.c",
+    "lines": 137
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/adc2_pal.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/adc2_pal.h",
+    "lines": 96
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/adc_pal_cfg.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/adc_pal_cfg.h",
+    "lines": 87
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/can1_pal.c",
+    "snapshot": "source-snapshot/BMS/Generated_Code/can1_pal.c",
+    "lines": 98
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/can1_pal.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/can1_pal.h",
+    "lines": 90
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/can2_pal.c",
+    "snapshot": "source-snapshot/BMS/Generated_Code/can2_pal.c",
+    "lines": 98
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/can2_pal.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/can2_pal.h",
+    "lines": 90
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/can3_pal.c",
+    "snapshot": "source-snapshot/BMS/Generated_Code/can3_pal.c",
+    "lines": 98
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/can3_pal.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/can3_pal.h",
+    "lines": 90
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/can_pal_cfg.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/can_pal_cfg.h",
+    "lines": 40
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/clockMan1.c",
+    "snapshot": "source-snapshot/BMS/Generated_Code/clockMan1.c",
+    "lines": 428
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/clockMan1.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/clockMan1.h",
+    "lines": 107
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/Cpu.c",
+    "snapshot": "source-snapshot/BMS/Generated_Code/Cpu.c",
+    "lines": 80
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/Cpu.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/Cpu.h",
+    "lines": 137
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/dmaController1.c",
+    "snapshot": "source-snapshot/BMS/Generated_Code/dmaController1.c",
+    "lines": 88
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/dmaController1.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/dmaController1.h",
+    "lines": 123
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/flash_config.c",
+    "snapshot": "source-snapshot/BMS/Generated_Code/flash_config.c",
+    "lines": 78
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/flash_config.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/flash_config.h",
+    "lines": 111
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/flexio_spi1.c",
+    "snapshot": "source-snapshot/BMS/Generated_Code/flexio_spi1.c",
+    "lines": 79
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/flexio_spi1.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/flexio_spi1.h",
+    "lines": 95
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/flexTimer_ic1.c",
+    "snapshot": "source-snapshot/BMS/Generated_Code/flexTimer_ic1.c",
+    "lines": 119
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/flexTimer_ic1.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/flexTimer_ic1.h",
+    "lines": 91
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/flexTimer_mc1.c",
+    "snapshot": "source-snapshot/BMS/Generated_Code/flexTimer_mc1.c",
+    "lines": 102
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/flexTimer_mc1.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/flexTimer_mc1.h",
+    "lines": 89
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/flexTimer_pwm1.c",
+    "snapshot": "source-snapshot/BMS/Generated_Code/flexTimer_pwm1.c",
+    "lines": 155
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/flexTimer_pwm1.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/flexTimer_pwm1.h",
+    "lines": 102
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/FreeRTOSConfig.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/FreeRTOSConfig.h",
+    "lines": 296
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/i2c1.c",
+    "snapshot": "source-snapshot/BMS/Generated_Code/i2c1.c",
+    "lines": 91
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/i2c1.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/i2c1.h",
+    "lines": 88
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/i2c_pal_cfg.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/i2c_pal_cfg.h",
+    "lines": 50
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/lpit1.c",
+    "snapshot": "source-snapshot/BMS/Generated_Code/lpit1.c",
+    "lines": 95
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/lpit1.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/lpit1.h",
+    "lines": 95
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/lpTmr1.c",
+    "snapshot": "source-snapshot/BMS/Generated_Code/lpTmr1.c",
+    "lines": 80
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/lpTmr1.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/lpTmr1.h",
+    "lines": 90
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/pin_mux.c",
+    "snapshot": "source-snapshot/BMS/Generated_Code/pin_mux.c",
+    "lines": 1004
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/pin_mux.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/pin_mux.h",
+    "lines": 1626
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/pwm_pal1.c",
+    "snapshot": "source-snapshot/BMS/Generated_Code/pwm_pal1.c",
+    "lines": 108
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/pwm_pal1.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/pwm_pal1.h",
+    "lines": 74
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/pwm_pal_cfg.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/pwm_pal_cfg.h",
+    "lines": 42
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/rtcTimer1.c",
+    "snapshot": "source-snapshot/BMS/Generated_Code/rtcTimer1.c",
+    "lines": 178
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/rtcTimer1.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/rtcTimer1.h",
+    "lines": 111
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/spi1_pal.c",
+    "snapshot": "source-snapshot/BMS/Generated_Code/spi1_pal.c",
+    "lines": 86
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/spi1_pal.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/spi1_pal.h",
+    "lines": 81
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/spi2_pal.c",
+    "snapshot": "source-snapshot/BMS/Generated_Code/spi2_pal.c",
+    "lines": 86
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/spi2_pal.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/spi2_pal.h",
+    "lines": 81
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/spi3_pal.c",
+    "snapshot": "source-snapshot/BMS/Generated_Code/spi3_pal.c",
+    "lines": 86
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/spi3_pal.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/spi3_pal.h",
+    "lines": 81
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/spi_pal_cfg.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/spi_pal_cfg.h",
+    "lines": 42
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/uart1_pal.c",
+    "snapshot": "source-snapshot/BMS/Generated_Code/uart1_pal.c",
+    "lines": 82
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/uart1_pal.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/uart1_pal.h",
+    "lines": 83
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/uart2_pal.c",
+    "snapshot": "source-snapshot/BMS/Generated_Code/uart2_pal.c",
+    "lines": 82
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/uart2_pal.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/uart2_pal.h",
+    "lines": 83
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/uart3_pal.c",
+    "snapshot": "source-snapshot/BMS/Generated_Code/uart3_pal.c",
+    "lines": 82
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/uart3_pal.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/uart3_pal.h",
+    "lines": 83
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/uart_pal_cfg.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/uart_pal_cfg.h",
+    "lines": 55
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/wdg_pal1.c",
+    "snapshot": "source-snapshot/BMS/Generated_Code/wdg_pal1.c",
+    "lines": 85
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/wdg_pal1.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/wdg_pal1.h",
+    "lines": 91
+  },
+  {
+    "source": "BMS",
+    "path": "Generated_Code/wdg_pal_cfg.h",
+    "snapshot": "source-snapshot/BMS/Generated_Code/wdg_pal_cfg.h",
+    "lines": 57
+  },
+  {
+    "source": "BMS",
+    "path": "Project_Settings/Linker_Files/S32K146_128_flash.ld",
+    "snapshot": "source-snapshot/BMS/Project_Settings/Linker_Files/S32K146_128_flash.ld",
+    "lines": 208
+  },
+  {
+    "source": "BMS",
+    "path": "Project_Settings/Linker_Files/S32K146_128_ram.ld",
+    "snapshot": "source-snapshot/BMS/Project_Settings/Linker_Files/S32K146_128_ram.ld",
+    "lines": 178
+  },
+  {
+    "source": "BMS",
+    "path": "Project_Settings/Startup_Code/startup_S32K146.S",
+    "snapshot": "source-snapshot/BMS/Project_Settings/Startup_Code/startup_S32K146.S",
+    "lines": 535
+  },
+  {
+    "source": "BMS",
+    "path": "S32K146OFBMU_系统全流程与架构深度分析.md",
+    "snapshot": "references/BMS/S32K146OFBMU_系统全流程与架构深度分析.md",
+    "lines": 256
+  },
+  {
+    "source": "BMS",
+    "path": "S32K146OFBMU_系统运行全流程与架构深度剖析_V10.md",
+    "snapshot": "references/BMS/S32K146OFBMU_系统运行全流程与架构深度剖析_V10.md",
+    "lines": 342
+  },
+  {
+    "source": "BMS",
+    "path": "S32K146OFBMU_系统运行全流程与架构深度剖析_整合版.md",
+    "snapshot": "references/BMS/S32K146OFBMU_系统运行全流程与架构深度剖析_整合版.md",
+    "lines": 2053
+  },
+  {
+    "source": "BMS",
+    "path": "S32K146OFBMU_系统运行流程与架构深度分析_完整版.md",
+    "snapshot": "references/BMS/S32K146OFBMU_系统运行流程与架构深度分析_完整版.md",
+    "lines": 864
+  },
+  {
+    "source": "BMS",
+    "path": "S32K146OFBMU_系统运行流程与调度详细说明.md",
+    "snapshot": "references/BMS/S32K146OFBMU_系统运行流程与调度详细说明.md",
+    "lines": 603
+  },
+  {
+    "source": "BMS",
+    "path": "S32K146OFBMU_系统运行流程与调度详细说明_完整版.md",
+    "snapshot": "references/BMS/S32K146OFBMU_系统运行流程与调度详细说明_完整版.md",
+    "lines": 559
+  },
+  {
+    "source": "BMS",
+    "path": "S32K146OFBMU_系统运行流程与调度说明.md",
+    "snapshot": "references/BMS/S32K146OFBMU_系统运行流程与调度说明.md",
+    "lines": 431
+  },
+  {
+    "source": "BMS",
+    "path": "S32K146OFBMU_系统运行流程与调度说明_完整版.md",
+    "snapshot": "references/BMS/S32K146OFBMU_系统运行流程与调度说明_完整版.md",
+    "lines": 140
+  },
+  {
+    "source": "BMS",
+    "path": "S32K146OFBMU_系统运行逻辑与架构深度分析_最终完整版.md",
+    "snapshot": "references/BMS/S32K146OFBMU_系统运行逻辑与架构深度分析_最终完整版.md",
+    "lines": 329
+  },
+  {
+    "source": "BMS",
+    "path": "S32K146OFBMU_系统运行逻辑与架构深度分析_最终版.md",
+    "snapshot": "references/BMS/S32K146OFBMU_系统运行逻辑与架构深度分析_最终版.md",
+    "lines": 601
+  },
+  {
+    "source": "BMS",
+    "path": "S32K146OFBMU_软件架构与核心算法说明.md",
+    "snapshot": "references/BMS/S32K146OFBMU_软件架构与核心算法说明.md",
+    "lines": 1637
+  },
+  {
+    "source": "BMS",
+    "path": "S32K146OFBMU_软件架构深度分析_整合完整版.md",
+    "snapshot": "references/BMS/S32K146OFBMU_软件架构深度分析_整合完整版.md",
+    "lines": 493
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/devices/callbacks.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/devices/callbacks.h",
+    "lines": 190
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/devices/common/s32_core_cm4.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/devices/common/s32_core_cm4.h",
+    "lines": 198
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/devices/devassert.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/devices/devassert.h",
+    "lines": 84
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/devices/device_registers.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/devices/device_registers.h",
+    "lines": 362
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/devices/S32K146/include/S32K146.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/devices/S32K146/include/S32K146.h",
+    "lines": 11960
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/devices/S32K146/include/S32K146_features.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/devices/S32K146/include/S32K146_features.h",
+    "lines": 1512
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/devices/S32K146/startup/system_S32K146.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/devices/S32K146/startup/system_S32K146.c",
+    "lines": 214
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/devices/S32K146/startup/system_S32K146.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/devices/S32K146/startup/system_S32K146.h",
+    "lines": 124
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/devices/startup.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/devices/startup.c",
+    "lines": 248
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/devices/startup.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/devices/startup.h",
+    "lines": 133
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/devices/status.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/devices/status.h",
+    "lines": 173
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/inc/adc_driver.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/inc/adc_driver.h",
+    "lines": 784
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/inc/clock.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/inc/clock.h",
+    "lines": 137
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/inc/clock_manager.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/inc/clock_manager.h",
+    "lines": 34
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/inc/edma_driver.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/inc/edma_driver.h",
+    "lines": 976
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/inc/flash_driver.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/inc/flash_driver.h",
+    "lines": 1544
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/inc/flexcan_driver.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/inc/flexcan_driver.h",
+    "lines": 929
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/inc/flexio.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/inc/flexio.h",
+    "lines": 158
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/inc/flexio_spi_driver.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/inc/flexio_spi_driver.h",
+    "lines": 440
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/inc/ftm_common.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/inc/ftm_common.h",
+    "lines": 1753
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/inc/ftm_ic_driver.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/inc/ftm_ic_driver.h",
+    "lines": 216
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/inc/ftm_mc_driver.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/inc/ftm_mc_driver.h",
+    "lines": 123
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/inc/ftm_pwm_driver.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/inc/ftm_pwm_driver.h",
+    "lines": 378
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/inc/interrupt_manager.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/inc/interrupt_manager.h",
+    "lines": 320
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/inc/lpi2c_driver.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/inc/lpi2c_driver.h",
+    "lines": 696
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/inc/lpit_driver.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/inc/lpit_driver.h",
+    "lines": 538
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/inc/lpspi_master_driver.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/inc/lpspi_master_driver.h",
+    "lines": 370
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/inc/lpspi_shared_function.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/inc/lpspi_shared_function.h",
+    "lines": 207
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/inc/lpspi_slave_driver.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/inc/lpspi_slave_driver.h",
+    "lines": 228
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/inc/lptmr_driver.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/inc/lptmr_driver.h",
+    "lines": 334
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/inc/lpuart_driver.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/inc/lpuart_driver.h",
+    "lines": 448
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/inc/pdb_driver.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/inc/pdb_driver.h",
+    "lines": 399
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/inc/pins_driver.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/inc/pins_driver.h",
+    "lines": 1165
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/inc/rtc_driver.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/inc/rtc_driver.h",
+    "lines": 432
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/inc/trgmux_driver.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/inc/trgmux_driver.h",
+    "lines": 241
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/inc/wdog_driver.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/inc/wdog_driver.h",
+    "lines": 287
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/adc/adc_driver.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/adc/adc_driver.c",
+    "lines": 769
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/adc/adc_hw_access.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/adc/adc_hw_access.h",
+    "lines": 1236
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.c",
+    "lines": 4080
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.h",
+    "lines": 987
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/clock/S32K1xx/pcc_hw_access.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/clock/S32K1xx/pcc_hw_access.h",
+    "lines": 203
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/clock/S32K1xx/pmc_hw_access.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/clock/S32K1xx/pmc_hw_access.h",
+    "lines": 119
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/clock/S32K1xx/scg_hw_access.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/clock/S32K1xx/scg_hw_access.h",
+    "lines": 840
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/clock/S32K1xx/sim_hw_access.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/clock/S32K1xx/sim_hw_access.h",
+    "lines": 553
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/clock/S32K1xx/smc_hw_access.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/clock/S32K1xx/smc_hw_access.h",
+    "lines": 70
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/edma/edma_driver.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/edma/edma_driver.c",
+    "lines": 1727
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/edma/edma_hw_access.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/edma/edma_hw_access.c",
+    "lines": 536
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/edma/edma_hw_access.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/edma/edma_hw_access.h",
+    "lines": 965
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/edma/edma_irq.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/edma/edma_irq.c",
+    "lines": 523
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/edma/edma_irq.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/edma/edma_irq.h",
+    "lines": 34
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/flash/flash_driver.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/flash/flash_driver.c",
+    "lines": 2164
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/flexcan/flexcan_driver.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/flexcan/flexcan_driver.c",
+    "lines": 2598
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/flexcan/flexcan_hw_access.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/flexcan/flexcan_hw_access.c",
+    "lines": 1688
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/flexcan/flexcan_hw_access.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/flexcan/flexcan_hw_access.h",
+    "lines": 1514
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/flexcan/flexcan_irq.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/flexcan/flexcan_irq.c",
+    "lines": 1111
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/flexcan/flexcan_irq.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/flexcan/flexcan_irq.h",
+    "lines": 308
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/flexio/flexio_common.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/flexio/flexio_common.c",
+    "lines": 396
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/flexio/flexio_common.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/flexio/flexio_common.h",
+    "lines": 95
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/flexio/flexio_hw_access.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/flexio/flexio_hw_access.h",
+    "lines": 1033
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/flexio/flexio_spi_driver.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/flexio/flexio_spi_driver.c",
+    "lines": 1508
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/ftm/ftm_common.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/ftm/ftm_common.c",
+    "lines": 887
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/ftm/ftm_hw_access.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/ftm/ftm_hw_access.c",
+    "lines": 194
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/ftm/ftm_hw_access.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/ftm/ftm_hw_access.h",
+    "lines": 1796
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/ftm/ftm_ic_driver.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/ftm/ftm_ic_driver.c",
+    "lines": 833
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/ftm/ftm_mc_driver.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/ftm/ftm_mc_driver.c",
+    "lines": 180
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/ftm/ftm_pwm_driver.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/ftm/ftm_pwm_driver.c",
+    "lines": 808
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/interrupt/interrupt_manager.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/interrupt/interrupt_manager.c",
+    "lines": 543
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/lpi2c/lpi2c_driver.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/lpi2c/lpi2c_driver.c",
+    "lines": 2698
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/lpi2c/lpi2c_hw_access.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/lpi2c/lpi2c_hw_access.c",
+    "lines": 75
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/lpi2c/lpi2c_hw_access.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/lpi2c/lpi2c_hw_access.h",
+    "lines": 1437
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/lpi2c/lpi2c_irq.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/lpi2c/lpi2c_irq.c",
+    "lines": 99
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/lpi2c/lpi2c_irq.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/lpi2c/lpi2c_irq.h",
+    "lines": 58
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/lpit/lpit_driver.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/lpit/lpit_driver.c",
+    "lines": 761
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/lpit/lpit_hw_access.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/lpit/lpit_hw_access.h",
+    "lines": 504
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/lpspi/lpspi_hw_access.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/lpspi/lpspi_hw_access.c",
+    "lines": 448
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/lpspi/lpspi_hw_access.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/lpspi/lpspi_hw_access.h",
+    "lines": 778
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/lpspi/lpspi_irq.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/lpspi/lpspi_irq.c",
+    "lines": 154
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/lpspi/lpspi_master_driver.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/lpspi/lpspi_master_driver.c",
+    "lines": 958
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/lpspi/lpspi_shared_function.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/lpspi/lpspi_shared_function.c",
+    "lines": 250
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/lpspi/lpspi_slave_driver.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/lpspi/lpspi_slave_driver.c",
+    "lines": 600
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/lptmr/lptmr_driver.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/lptmr/lptmr_driver.c",
+    "lines": 1034
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/lptmr/lptmr_hw_access.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/lptmr/lptmr_hw_access.c",
+    "lines": 68
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/lptmr/lptmr_hw_access.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/lptmr/lptmr_hw_access.h",
+    "lines": 653
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/lpuart/lpuart_driver.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/lpuart/lpuart_driver.c",
+    "lines": 2014
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/lpuart/lpuart_hw_access.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/lpuart/lpuart_hw_access.c",
+    "lines": 399
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/lpuart/lpuart_hw_access.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/lpuart/lpuart_hw_access.h",
+    "lines": 596
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/lpuart/lpuart_irq.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/lpuart/lpuart_irq.c",
+    "lines": 91
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/lpuart/lpuart_irq.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/lpuart/lpuart_irq.h",
+    "lines": 60
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/pdb/pdb_driver.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/pdb/pdb_driver.c",
+    "lines": 472
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/pdb/pdb_hw_access.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/pdb/pdb_hw_access.c",
+    "lines": 260
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/pdb/pdb_hw_access.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/pdb/pdb_hw_access.h",
+    "lines": 442
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/pins/pins_driver.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/pins/pins_driver.c",
+    "lines": 564
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/pins/pins_gpio_hw_access.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/pins/pins_gpio_hw_access.h",
+    "lines": 352
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/pins/pins_port_hw_access.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/pins/pins_port_hw_access.c",
+    "lines": 403
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/pins/pins_port_hw_access.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/pins/pins_port_hw_access.h",
+    "lines": 355
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/rtc/rtc_driver.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/rtc/rtc_driver.c",
+    "lines": 1045
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/rtc/rtc_hw_access.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/rtc/rtc_hw_access.c",
+    "lines": 249
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/rtc/rtc_hw_access.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/rtc/rtc_hw_access.h",
+    "lines": 639
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/rtc/rtc_irq.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/rtc/rtc_irq.c",
+    "lines": 45
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/trgmux/trgmux_driver.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/trgmux/trgmux_driver.c",
+    "lines": 238
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/trgmux/trgmux_hw_access.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/trgmux/trgmux_hw_access.c",
+    "lines": 176
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/trgmux/trgmux_hw_access.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/trgmux/trgmux_hw_access.h",
+    "lines": 118
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/wdog/wdog_driver.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/wdog/wdog_driver.c",
+    "lines": 493
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/wdog/wdog_hw_access.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/wdog/wdog_hw_access.c",
+    "lines": 214
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/drivers/src/wdog/wdog_hw_access.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/drivers/src/wdog/wdog_hw_access.h",
+    "lines": 379
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/pal/inc/adc_pal.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/pal/inc/adc_pal.h",
+    "lines": 379
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/pal/inc/adc_pal_mapping.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/pal/inc/adc_pal_mapping.h",
+    "lines": 84
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/pal/inc/can_pal.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/pal/inc/can_pal.h",
+    "lines": 456
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/pal/inc/can_pal_mapping.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/pal/inc/can_pal_mapping.h",
+    "lines": 62
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/pal/inc/i2c_pal.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/pal/inc/i2c_pal.h",
+    "lines": 447
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/pal/inc/i2c_pal_mapping.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/pal/inc/i2c_pal_mapping.h",
+    "lines": 96
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/pal/inc/pwm_pal.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/pal/inc/pwm_pal.h",
+    "lines": 247
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/pal/inc/pwm_pal_mapping.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/pal/inc/pwm_pal_mapping.h",
+    "lines": 54
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/pal/inc/spi_pal.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/pal/inc/spi_pal.h",
+    "lines": 318
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/pal/inc/spi_pal_mapping.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/pal/inc/spi_pal_mapping.h",
+    "lines": 58
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/pal/inc/uart_pal.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/pal/inc/uart_pal.h",
+    "lines": 405
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/pal/inc/uart_pal_mapping.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/pal/inc/uart_pal_mapping.h",
+    "lines": 72
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/pal/inc/wdg_pal.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/pal/inc/wdg_pal.h",
+    "lines": 266
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/pal/inc/wdg_pal_mapping.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/pal/inc/wdg_pal_mapping.h",
+    "lines": 71
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/pal/src/adc/adc_irq.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/pal/src/adc/adc_irq.c",
+    "lines": 262
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/pal/src/adc/adc_irq.h",
+    "snapshot": "source-snapshot/BMS/SDK/platform/pal/src/adc/adc_irq.h",
+    "lines": 65
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/pal/src/adc/adc_pal.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/pal/src/adc/adc_pal.c",
+    "lines": 2101
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/pal/src/can/can_pal.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/pal/src/can/can_pal.c",
+    "lines": 1109
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/pal/src/i2c/i2c_pal.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/pal/src/i2c/i2c_pal.c",
+    "lines": 1467
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/pal/src/pwm/pwm_pal.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/pal/src/pwm/pwm_pal.c",
+    "lines": 876
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/pal/src/spi/spi_pal.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/pal/src/spi/spi_pal.c",
+    "lines": 1057
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/pal/src/uart/uart_pal.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/pal/src/uart/uart_pal.c",
+    "lines": 1191
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/platform/pal/src/wdg/wdg_pal.c",
+    "snapshot": "source-snapshot/BMS/SDK/platform/pal/src/wdg/wdg_pal.c",
+    "lines": 496
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/rtos/FreeRTOS_S32K/Source/croutine.c",
+    "snapshot": "source-snapshot/BMS/SDK/rtos/FreeRTOS_S32K/Source/croutine.c",
+    "lines": 353
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/rtos/FreeRTOS_S32K/Source/event_groups.c",
+    "snapshot": "source-snapshot/BMS/SDK/rtos/FreeRTOS_S32K/Source/event_groups.c",
+    "lines": 738
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/rtos/FreeRTOS_S32K/Source/include/croutine.h",
+    "snapshot": "source-snapshot/BMS/SDK/rtos/FreeRTOS_S32K/Source/include/croutine.h",
+    "lines": 720
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/rtos/FreeRTOS_S32K/Source/include/deprecated_definitions.h",
+    "snapshot": "source-snapshot/BMS/SDK/rtos/FreeRTOS_S32K/Source/include/deprecated_definitions.h",
+    "lines": 279
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/rtos/FreeRTOS_S32K/Source/include/event_groups.h",
+    "snapshot": "source-snapshot/BMS/SDK/rtos/FreeRTOS_S32K/Source/include/event_groups.h",
+    "lines": 756
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/rtos/FreeRTOS_S32K/Source/include/FreeRTOS.h",
+    "snapshot": "source-snapshot/BMS/SDK/rtos/FreeRTOS_S32K/Source/include/FreeRTOS.h",
+    "lines": 1168
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/rtos/FreeRTOS_S32K/Source/include/list.h",
+    "snapshot": "source-snapshot/BMS/SDK/rtos/FreeRTOS_S32K/Source/include/list.h",
+    "lines": 411
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/rtos/FreeRTOS_S32K/Source/include/message_buffer.h",
+    "snapshot": "source-snapshot/BMS/SDK/rtos/FreeRTOS_S32K/Source/include/message_buffer.h",
+    "lines": 779
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/rtos/FreeRTOS_S32K/Source/include/mpu_prototypes.h",
+    "snapshot": "source-snapshot/BMS/SDK/rtos/FreeRTOS_S32K/Source/include/mpu_prototypes.h",
+    "lines": 155
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/rtos/FreeRTOS_S32K/Source/include/mpu_wrappers.h",
+    "snapshot": "source-snapshot/BMS/SDK/rtos/FreeRTOS_S32K/Source/include/mpu_wrappers.h",
+    "lines": 181
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/rtos/FreeRTOS_S32K/Source/include/portable.h",
+    "snapshot": "source-snapshot/BMS/SDK/rtos/FreeRTOS_S32K/Source/include/portable.h",
+    "lines": 165
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/rtos/FreeRTOS_S32K/Source/include/projdefs.h",
+    "snapshot": "source-snapshot/BMS/SDK/rtos/FreeRTOS_S32K/Source/include/projdefs.h",
+    "lines": 124
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/rtos/FreeRTOS_S32K/Source/include/queue.h",
+    "snapshot": "source-snapshot/BMS/SDK/rtos/FreeRTOS_S32K/Source/include/queue.h",
+    "lines": 1653
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/rtos/FreeRTOS_S32K/Source/include/semphr.h",
+    "snapshot": "source-snapshot/BMS/SDK/rtos/FreeRTOS_S32K/Source/include/semphr.h",
+    "lines": 1140
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/rtos/FreeRTOS_S32K/Source/include/stack_macros.h",
+    "snapshot": "source-snapshot/BMS/SDK/rtos/FreeRTOS_S32K/Source/include/stack_macros.h",
+    "lines": 129
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/rtos/FreeRTOS_S32K/Source/include/StackMacros.h",
+    "snapshot": "source-snapshot/BMS/SDK/rtos/FreeRTOS_S32K/Source/include/StackMacros.h",
+    "lines": 133
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/rtos/FreeRTOS_S32K/Source/include/stream_buffer.h",
+    "snapshot": "source-snapshot/BMS/SDK/rtos/FreeRTOS_S32K/Source/include/stream_buffer.h",
+    "lines": 852
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/rtos/FreeRTOS_S32K/Source/include/task.h",
+    "snapshot": "source-snapshot/BMS/SDK/rtos/FreeRTOS_S32K/Source/include/task.h",
+    "lines": 2338
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/rtos/FreeRTOS_S32K/Source/include/timers.h",
+    "snapshot": "source-snapshot/BMS/SDK/rtos/FreeRTOS_S32K/Source/include/timers.h",
+    "lines": 1277
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/rtos/FreeRTOS_S32K/Source/list.c",
+    "snapshot": "source-snapshot/BMS/SDK/rtos/FreeRTOS_S32K/Source/list.c",
+    "lines": 198
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/rtos/FreeRTOS_S32K/Source/portable/GCC/ARM_CM4F/port.c",
+    "snapshot": "source-snapshot/BMS/SDK/rtos/FreeRTOS_S32K/Source/portable/GCC/ARM_CM4F/port.c",
+    "lines": 775
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/rtos/FreeRTOS_S32K/Source/portable/GCC/ARM_CM4F/portmacro.h",
+    "snapshot": "source-snapshot/BMS/SDK/rtos/FreeRTOS_S32K/Source/portable/GCC/ARM_CM4F/portmacro.h",
+    "lines": 242
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/rtos/FreeRTOS_S32K/Source/portable/MemMang/heap_2.c",
+    "snapshot": "source-snapshot/BMS/SDK/rtos/FreeRTOS_S32K/Source/portable/MemMang/heap_2.c",
+    "lines": 272
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/rtos/FreeRTOS_S32K/Source/queue.c",
+    "snapshot": "source-snapshot/BMS/SDK/rtos/FreeRTOS_S32K/Source/queue.c",
+    "lines": 2909
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/rtos/FreeRTOS_S32K/Source/stream_buffer.c",
+    "snapshot": "source-snapshot/BMS/SDK/rtos/FreeRTOS_S32K/Source/stream_buffer.c",
+    "lines": 1199
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/rtos/FreeRTOS_S32K/Source/tasks.c",
+    "snapshot": "source-snapshot/BMS/SDK/rtos/FreeRTOS_S32K/Source/tasks.c",
+    "lines": 5047
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/rtos/FreeRTOS_S32K/Source/timers.c",
+    "snapshot": "source-snapshot/BMS/SDK/rtos/FreeRTOS_S32K/Source/timers.c",
+    "lines": 1076
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/rtos/osif/osif.h",
+    "snapshot": "source-snapshot/BMS/SDK/rtos/osif/osif.h",
+    "lines": 202
+  },
+  {
+    "source": "BMS",
+    "path": "SDK/rtos/osif/osif_freertos.c",
+    "snapshot": "source-snapshot/BMS/SDK/rtos/osif/osif_freertos.c",
+    "lines": 442
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Addition/Calibration/HigVoltCorr.c",
+    "snapshot": "source-snapshot/BMS/Sources/Addition/Calibration/HigVoltCorr.c",
+    "lines": 1337
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Addition/Calibration/HigVoltCorr.h",
+    "snapshot": "source-snapshot/BMS/Sources/Addition/Calibration/HigVoltCorr.h",
+    "lines": 161
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Addition/Calibration/OutCurrCorr.c",
+    "snapshot": "source-snapshot/BMS/Sources/Addition/Calibration/OutCurrCorr.c",
+    "lines": 1240
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Addition/Calibration/OutCurrCorr.h",
+    "snapshot": "source-snapshot/BMS/Sources/Addition/Calibration/OutCurrCorr.h",
+    "lines": 127
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Addition/LoadApp/LoadApp.c",
+    "snapshot": "source-snapshot/BMS/Sources/Addition/LoadApp/LoadApp.c",
+    "lines": 2555
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Addition/LoadApp/LoadApp.h",
+    "snapshot": "source-snapshot/BMS/Sources/Addition/LoadApp/LoadApp.h",
+    "lines": 307
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Addition/OperAuth/Authority.c",
+    "snapshot": "source-snapshot/BMS/Sources/Addition/OperAuth/Authority.c",
+    "lines": 187
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Addition/OperAuth/Authority.h",
+    "snapshot": "source-snapshot/BMS/Sources/Addition/OperAuth/Authority.h",
+    "lines": 109
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Addition/UserDef/UserTactic.c",
+    "snapshot": "source-snapshot/BMS/Sources/Addition/UserDef/UserTactic.c",
+    "lines": 541
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Addition/UserDef/UserTactic.h",
+    "snapshot": "source-snapshot/BMS/Sources/Addition/UserDef/UserTactic.h",
+    "lines": 77
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Addition/UserProto/CatlMsg.c",
+    "snapshot": "source-snapshot/BMS/Sources/Addition/UserProto/CatlMsg.c",
+    "lines": 1329
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Addition/UserProto/CatlMsg.h",
+    "snapshot": "source-snapshot/BMS/Sources/Addition/UserProto/CatlMsg.h",
+    "lines": 116
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Addition/UserProto/FrockMsg.c",
+    "snapshot": "source-snapshot/BMS/Sources/Addition/UserProto/FrockMsg.c",
+    "lines": 2236
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Addition/UserProto/FrockMsg.h",
+    "snapshot": "source-snapshot/BMS/Sources/Addition/UserProto/FrockMsg.h",
+    "lines": 45
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/BSPCfg/BSPConfig.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/BSPCfg/BSPConfig.c",
+    "lines": 279
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/BSPCfg/BSPConfig.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/BSPCfg/BSPConfig.h",
+    "lines": 180
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/BSPUser/BSPISRHook.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/BSPUser/BSPISRHook.c",
+    "lines": 248
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/BSPUser/BSPISRHook.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/BSPUser/BSPISRHook.h",
+    "lines": 134
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/BSPUser/BSPUserAPI.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/BSPUser/BSPUserAPI.c",
+    "lines": 139
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/BSPUser/BSPUserAPI.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/BSPUser/BSPUserAPI.h",
+    "lines": 988
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/BSPUser/BSPUserHook.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/BSPUser/BSPUserHook.c",
+    "lines": 156
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/BSPUser/BSPUserHook.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/BSPUser/BSPUserHook.h",
+    "lines": 59
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/BF8915A_driver/BF8915A.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/BF8915A_driver/BF8915A.c",
+    "lines": 2165
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/BF8915A_driver/BF8915A.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/BF8915A_driver/BF8915A.h",
+    "lines": 380
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/DEVADC.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/DEVADC.c",
+    "lines": 255
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/DEVADC.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/DEVADC.h",
+    "lines": 87
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/DEVCAN.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/DEVCAN.c",
+    "lines": 89
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/DEVCAN.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/DEVCAN.h",
+    "lines": 44
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/DEVGPIO.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/DEVGPIO.c",
+    "lines": 2051
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/DEVGPIO.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/DEVGPIO.h",
+    "lines": 248
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/DEVSCI.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/DEVSCI.c",
+    "lines": 222
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/DEVSCI.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/DEVSCI.h",
+    "lines": 62
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/FS65_driver/sbc_fs65.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/FS65_driver/sbc_fs65.c",
+    "lines": 1301
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/FS65_driver/sbc_fs65.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/FS65_driver/sbc_fs65.h",
+    "lines": 413
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/FS65_driver/sbc_fs65_assert.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/FS65_driver/sbc_fs65_assert.h",
+    "lines": 85
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/FS65_driver/sbc_fs65_common.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/FS65_driver/sbc_fs65_common.h",
+    "lines": 310
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/FS65_driver/sbc_fs65_communication.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/FS65_driver/sbc_fs65_communication.c",
+    "lines": 387
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/FS65_driver/sbc_fs65_communication.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/FS65_driver/sbc_fs65_communication.h",
+    "lines": 93
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/FS65_driver/sbc_fs65_map.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/FS65_driver/sbc_fs65_map.h",
+    "lines": 4693
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/LTC2949_driver/LTC2949.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/LTC2949_driver/LTC2949.c",
+    "lines": 3178
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/LTC2949_driver/LTC2949.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/LTC2949_driver/LTC2949.h",
+    "lines": 4185
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/LTC2949_driver/ltcmuc_tools.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/LTC2949_driver/ltcmuc_tools.c",
+    "lines": 669
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/LTC2949_driver/ltcmuc_tools.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/LTC2949_driver/ltcmuc_tools.h",
+    "lines": 218
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/LTC6813_driver/LTC6813-1.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/LTC6813_driver/LTC6813-1.c",
+    "lines": 2309
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/LTC6813_driver/LTC6813-1.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/LTC6813_driver/LTC6813-1.h",
+    "lines": 439
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/LTC6813_driver/LTC6813-1_Config.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/LTC6813_driver/LTC6813-1_Config.h",
+    "lines": 173
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/LTC6813_driver/LTC6813-1_Registers.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/LTC6813_driver/LTC6813-1_Registers.h",
+    "lines": 245
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/M24512_driver/EepM24512.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/M24512_driver/EepM24512.c",
+    "lines": 614
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/M24512_driver/EepM24512.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/M24512_driver/EepM24512.h",
+    "lines": 140
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/MCP3913_driver/MCP3913.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/MCP3913_driver/MCP3913.c",
+    "lines": 436
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/MCP3913_driver/MCP3913.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/MCP3913_driver/MCP3913.h",
+    "lines": 162
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/RX8010_driver/RX8010.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/RX8010_driver/RX8010.c",
+    "lines": 319
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/RX8010_driver/RX8010.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/RX8010_driver/RX8010.h",
+    "lines": 133
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/SST26VF064_driver/SST26VF064.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/SST26VF064_driver/SST26VF064.c",
+    "lines": 1794
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Device/SST26VF064_driver/SST26VF064.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Device/SST26VF064_driver/SST26VF064.h",
+    "lines": 246
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPADC.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPADC.c",
+    "lines": 287
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPADC.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPADC.h",
+    "lines": 126
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPCAN.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPCAN.c",
+    "lines": 865
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPCAN.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPCAN.h",
+    "lines": 176
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPDMA.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPDMA.c",
+    "lines": 64
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPDMA.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPDMA.h",
+    "lines": 40
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPEEPROM.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPEEPROM.c",
+    "lines": 383
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPEEPROM.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPEEPROM.h",
+    "lines": 97
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPFLASH.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPFLASH.c",
+    "lines": 696
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPFLASH.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPFLASH.h",
+    "lines": 170
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPFTM.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPFTM.c",
+    "lines": 215
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPFTM.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPFTM.h",
+    "lines": 104
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPGPIO.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPGPIO.c",
+    "lines": 279
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPGPIO.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPGPIO.h",
+    "lines": 128
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPI2C.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPI2C.c",
+    "lines": 150
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPI2C.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPI2C.h",
+    "lines": 77
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPIRQ.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPIRQ.c",
+    "lines": 60
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPIRQ.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPIRQ.h",
+    "lines": 49
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPLPIT.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPLPIT.c",
+    "lines": 148
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPLPIT.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPLPIT.h",
+    "lines": 89
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPMCG.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPMCG.c",
+    "lines": 58
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPMCG.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPMCG.h",
+    "lines": 42
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPPWM.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPPWM.c",
+    "lines": 172
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPPWM.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPPWM.h",
+    "lines": 93
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPRTC.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPRTC.c",
+    "lines": 142
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPRTC.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPRTC.h",
+    "lines": 68
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPSimI2C.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPSimI2C.c",
+    "lines": 815
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPSimI2C.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPSimI2C.h",
+    "lines": 188
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPSPI.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPSPI.c",
+    "lines": 454
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPSPI.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPSPI.h",
+    "lines": 87
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPUART.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPUART.c",
+    "lines": 382
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPUART.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPUART.h",
+    "lines": 111
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPWDOG.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPWDOG.c",
+    "lines": 121
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Driver/BSPWDOG.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Driver/BSPWDOG.h",
+    "lines": 59
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Util/BSPQueue.c",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Util/BSPQueue.c",
+    "lines": 304
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Util/BSPQueue.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Util/BSPQueue.h",
+    "lines": 102
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/BSPSys/Util/BSPTypeDef.h",
+    "snapshot": "source-snapshot/BMS/Sources/BSPSys/Util/BSPTypeDef.h",
+    "lines": 118
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/CanLib/CANHandle.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/CanLib/CANHandle.c",
+    "lines": 1720
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/CanLib/CANHandle.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/CanLib/CANHandle.h",
+    "lines": 208
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/CanLib/CANInterface.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/CanLib/CANInterface.c",
+    "lines": 685
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/CanLib/CANInterface.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/CanLib/CANInterface.h",
+    "lines": 459
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/CanLib/CANTabOper.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/CanLib/CANTabOper.c",
+    "lines": 911
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/CanLib/CANTabOper.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/CanLib/CANTabOper.h",
+    "lines": 141
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/CanLib/CANTxCycle.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/CanLib/CANTxCycle.c",
+    "lines": 455
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/CanLib/CANTxCycle.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/CanLib/CANTxCycle.h",
+    "lines": 59
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/CanLib/CANUser.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/CanLib/CANUser.c",
+    "lines": 1188
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/CanLib/CANUser.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/CanLib/CANUser.h",
+    "lines": 298
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/ChgCan/CHGFrame.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/ChgCan/CHGFrame.c",
+    "lines": 716
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/ChgCan/CHGFrame.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/ChgCan/CHGFrame.h",
+    "lines": 122
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/ChgCan/CHGHandle.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/ChgCan/CHGHandle.c",
+    "lines": 849
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/ChgCan/CHGHandle.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/ChgCan/CHGHandle.h",
+    "lines": 105
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/ChgCan/CHGInterface.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/ChgCan/CHGInterface.c",
+    "lines": 549
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/ChgCan/CHGInterface.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/ChgCan/CHGInterface.h",
+    "lines": 471
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/DataCalc/CalcInterface.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/DataCalc/CalcInterface.c",
+    "lines": 545
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/DataCalc/CalcInterface.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/DataCalc/CalcInterface.h",
+    "lines": 459
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/DataCalc/CalcUtil.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/DataCalc/CalcUtil.c",
+    "lines": 242
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/DataCalc/CalcUtil.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/DataCalc/CalcUtil.h",
+    "lines": 85
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/DataCalc/CharactCalc.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/DataCalc/CharactCalc.c",
+    "lines": 477
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/DataCalc/CharactCalc.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/DataCalc/CharactCalc.h",
+    "lines": 114
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/DataCalc/CurrLimCalc.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/DataCalc/CurrLimCalc.c",
+    "lines": 815
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/DataCalc/CurrLimCalc.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/DataCalc/CurrLimCalc.h",
+    "lines": 54
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/DataCalc/CurrLimFall.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/DataCalc/CurrLimFall.c",
+    "lines": 772
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/DataCalc/CurrLimFall.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/DataCalc/CurrLimFall.h",
+    "lines": 87
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/DataCalc/CurrLimPID.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/DataCalc/CurrLimPID.c",
+    "lines": 127
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/DataCalc/CurrLimPID.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/DataCalc/CurrLimPID.h",
+    "lines": 65
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/DataCalc/VoltLimCalc.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/DataCalc/VoltLimCalc.c",
+    "lines": 258
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/DataCalc/VoltLimCalc.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/DataCalc/VoltLimCalc.h",
+    "lines": 41
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Diagnosis/DiagCheck.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Diagnosis/DiagCheck.c",
+    "lines": 1895
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Diagnosis/DiagCheck.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Diagnosis/DiagCheck.h",
+    "lines": 377
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Diagnosis/DiagFilter.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Diagnosis/DiagFilter.c",
+    "lines": 616
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Diagnosis/DiagFilter.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Diagnosis/DiagFilter.h",
+    "lines": 151
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Diagnosis/DiagInterface.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Diagnosis/DiagInterface.c",
+    "lines": 268
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Diagnosis/DiagInterface.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Diagnosis/DiagInterface.h",
+    "lines": 852
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Diagnosis/DiagMaker.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Diagnosis/DiagMaker.c",
+    "lines": 1805
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Diagnosis/DiagMaker.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Diagnosis/DiagMaker.h",
+    "lines": 86
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Diagnosis/DiagSos.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Diagnosis/DiagSos.c",
+    "lines": 1196
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Diagnosis/DiagSos.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Diagnosis/DiagSos.h",
+    "lines": 110
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Diagnosis/DiagUser.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Diagnosis/DiagUser.c",
+    "lines": 2625
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Diagnosis/DiagUser.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Diagnosis/DiagUser.h",
+    "lines": 170
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/EnergyCalc/CapInfoCalc.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/EnergyCalc/CapInfoCalc.c",
+    "lines": 695
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/EnergyCalc/CapInfoCalc.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/EnergyCalc/CapInfoCalc.h",
+    "lines": 155
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/EnergyCalc/CellFadeCalc.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/EnergyCalc/CellFadeCalc.c",
+    "lines": 333
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/EnergyCalc/CellFadeCalc.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/EnergyCalc/CellFadeCalc.h",
+    "lines": 129
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/EnergyCalc/CurrIntegral.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/EnergyCalc/CurrIntegral.c",
+    "lines": 292
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/EnergyCalc/CurrIntegral.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/EnergyCalc/CurrIntegral.h",
+    "lines": 150
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/EnergyCalc/EnerInfoCalc.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/EnergyCalc/EnerInfoCalc.c",
+    "lines": 695
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/EnergyCalc/EnerInfoCalc.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/EnergyCalc/EnerInfoCalc.h",
+    "lines": 159
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/EnergyCalc/EnerInterface.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/EnergyCalc/EnerInterface.c",
+    "lines": 490
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/EnergyCalc/EnerInterface.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/EnergyCalc/EnerInterface.h",
+    "lines": 655
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/EnergyCalc/EnerUser.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/EnergyCalc/EnerUser.c",
+    "lines": 86
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/EnergyCalc/EnerUser.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/EnergyCalc/EnerUser.h",
+    "lines": 49
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/EnergyCalc/SocDisplay.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/EnergyCalc/SocDisplay.c",
+    "lines": 751
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/EnergyCalc/SocDisplay.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/EnergyCalc/SocDisplay.h",
+    "lines": 127
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/EnergyCalc/SoeDisplay.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/EnergyCalc/SoeDisplay.c",
+    "lines": 746
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/EnergyCalc/SoeDisplay.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/EnergyCalc/SoeDisplay.h",
+    "lines": 127
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/EnergyCalc/SohDisplay.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/EnergyCalc/SohDisplay.c",
+    "lines": 64
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/EnergyCalc/SohDisplay.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/EnergyCalc/SohDisplay.h",
+    "lines": 49
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Measurement/CellAFESamp.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Measurement/CellAFESamp.c",
+    "lines": 2242
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Measurement/CellAFESamp.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Measurement/CellAFESamp.h",
+    "lines": 181
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Measurement/CurrSample.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Measurement/CurrSample.c",
+    "lines": 842
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Measurement/CurrSample.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Measurement/CurrSample.h",
+    "lines": 148
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Measurement/HigAFESamp.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Measurement/HigAFESamp.c",
+    "lines": 2280
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Measurement/HigAFESamp.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Measurement/HigAFESamp.h",
+    "lines": 178
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Measurement/InsuCheck.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Measurement/InsuCheck.c",
+    "lines": 1507
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Measurement/InsuCheck.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Measurement/InsuCheck.h",
+    "lines": 246
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Measurement/LowADCSamp.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Measurement/LowADCSamp.c",
+    "lines": 915
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Measurement/LowADCSamp.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Measurement/LowADCSamp.h",
+    "lines": 133
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Measurement/PortCheck.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Measurement/PortCheck.c",
+    "lines": 408
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Measurement/PortCheck.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Measurement/PortCheck.h",
+    "lines": 121
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/ModbusLib/MbClient.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/ModbusLib/MbClient.c",
+    "lines": 982
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/ModbusLib/MbClient.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/ModbusLib/MbClient.h",
+    "lines": 87
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/ModbusLib/MbHandle.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/ModbusLib/MbHandle.c",
+    "lines": 354
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/ModbusLib/MbHandle.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/ModbusLib/MbHandle.h",
+    "lines": 110
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/ModbusLib/MbInterface.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/ModbusLib/MbInterface.c",
+    "lines": 163
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/ModbusLib/MbInterface.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/ModbusLib/MbInterface.h",
+    "lines": 212
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/ModbusLib/MbQueue.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/ModbusLib/MbQueue.c",
+    "lines": 175
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/ModbusLib/MbQueue.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/ModbusLib/MbQueue.h",
+    "lines": 75
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/ModbusLib/MbServer.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/ModbusLib/MbServer.c",
+    "lines": 874
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/ModbusLib/MbServer.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/ModbusLib/MbServer.h",
+    "lines": 42
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/ModbusLib/MbTriSend.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/ModbusLib/MbTriSend.c",
+    "lines": 116
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/ModbusLib/MbTriSend.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/ModbusLib/MbTriSend.h",
+    "lines": 74
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/ModbusLib/MbUserDef.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/ModbusLib/MbUserDef.c",
+    "lines": 229
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/ModbusLib/MbUserDef.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/ModbusLib/MbUserDef.h",
+    "lines": 179
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/ModbusLib/ModbusUser.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/ModbusLib/ModbusUser.c",
+    "lines": 281
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/ModbusLib/ModbusUser.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/ModbusLib/ModbusUser.h",
+    "lines": 60
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Parameter/GroupPara.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Parameter/GroupPara.c",
+    "lines": 3336
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Parameter/GroupPara.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Parameter/GroupPara.h",
+    "lines": 417
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Parameter/ParaCopy.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Parameter/ParaCopy.c",
+    "lines": 1126
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Parameter/ParaCopy.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Parameter/ParaCopy.h",
+    "lines": 61
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Parameter/ParaDnload.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Parameter/ParaDnload.c",
+    "lines": 404
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Parameter/ParaDnload.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Parameter/ParaDnload.h",
+    "lines": 133
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Parameter/ParaExtEep.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Parameter/ParaExtEep.c",
+    "lines": 2322
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Parameter/ParaExtEep.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Parameter/ParaExtEep.h",
+    "lines": 593
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Parameter/ParaIntEep.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Parameter/ParaIntEep.c",
+    "lines": 2372
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Parameter/ParaIntEep.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Parameter/ParaIntEep.h",
+    "lines": 626
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Parameter/ParaInterface.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Parameter/ParaInterface.c",
+    "lines": 628
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Parameter/ParaInterface.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Parameter/ParaInterface.h",
+    "lines": 911
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Parameter/ParaIntFlash.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Parameter/ParaIntFlash.c",
+    "lines": 1416
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Parameter/ParaIntFlash.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Parameter/ParaIntFlash.h",
+    "lines": 338
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Parameter/ParaRead.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Parameter/ParaRead.c",
+    "lines": 1745
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Parameter/ParaRead.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Parameter/ParaRead.h",
+    "lines": 338
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Parameter/ParaUser.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Parameter/ParaUser.c",
+    "lines": 370
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Parameter/ParaUser.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Parameter/ParaUser.h",
+    "lines": 95
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Parameter/ParaWrite.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Parameter/ParaWrite.c",
+    "lines": 1169
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Parameter/ParaWrite.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Parameter/ParaWrite.h",
+    "lines": 338
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Parameter/PublicPara.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Parameter/PublicPara.c",
+    "lines": 253
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Parameter/PublicPara.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Parameter/PublicPara.h",
+    "lines": 139
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/PowerManag/Fs6503_PowerManag.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/PowerManag/Fs6503_PowerManag.c",
+    "lines": 531
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/PowerManag/Fs6503_PowerManag.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/PowerManag/Fs6503_PowerManag.h",
+    "lines": 154
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/PowerManag/wait.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/PowerManag/wait.c",
+    "lines": 84
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/PowerManag/wait.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/PowerManag/wait.h",
+    "lines": 18
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Recording/RecordHandle.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Recording/RecordHandle.c",
+    "lines": 6345
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Recording/RecordHandle.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Recording/RecordHandle.h",
+    "lines": 505
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Recording/RecordInterface.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Recording/RecordInterface.c",
+    "lines": 673
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Recording/RecordInterface.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Recording/RecordInterface.h",
+    "lines": 712
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Recording/RecordUser.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Recording/RecordUser.c",
+    "lines": 104
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Recording/RecordUser.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Recording/RecordUser.h",
+    "lines": 74
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Recording/RecordWave.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Recording/RecordWave.c",
+    "lines": 1017
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Recording/RecordWave.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Recording/RecordWave.h",
+    "lines": 104
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/SocLib/CapEnerCorr.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/SocLib/CapEnerCorr.c",
+    "lines": 1076
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/SocLib/CapEnerCorr.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/SocLib/CapEnerCorr.h",
+    "lines": 75
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/SocLib/SocInterface.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/SocLib/SocInterface.c",
+    "lines": 168
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/SocLib/SocInterface.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/SocLib/SocInterface.h",
+    "lines": 282
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/SocLib/SocSoeCorr.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/SocLib/SocSoeCorr.c",
+    "lines": 725
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/SocLib/SocSoeCorr.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/SocLib/SocSoeCorr.h",
+    "lines": 40
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/SocLib/SocSoeSync.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/SocLib/SocSoeSync.c",
+    "lines": 1408
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/SocLib/SocSoeSync.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/SocLib/SocSoeSync.h",
+    "lines": 71
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/SocLib/SocUserAPI.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/SocLib/SocUserAPI.c",
+    "lines": 110
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/SocLib/SocUserAPI.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/SocLib/SocUserAPI.h",
+    "lines": 52
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Statistics/DodRcdStatis.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Statistics/DodRcdStatis.c",
+    "lines": 542
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Statistics/DodRcdStatis.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Statistics/DodRcdStatis.h",
+    "lines": 68
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Statistics/EnergyStatis.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Statistics/EnergyStatis.c",
+    "lines": 303
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Statistics/EnergyStatis.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Statistics/EnergyStatis.h",
+    "lines": 78
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Statistics/StaInterface.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Statistics/StaInterface.c",
+    "lines": 99
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Statistics/StaInterface.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Statistics/StaInterface.h",
+    "lines": 186
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Statistics/StatisUser.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Statistics/StatisUser.c",
+    "lines": 56
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Statistics/StatisUser.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Statistics/StatisUser.h",
+    "lines": 40
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Statistics/TimesStatis.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Statistics/TimesStatis.c",
+    "lines": 590
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/Statistics/TimesStatis.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/Statistics/TimesStatis.h",
+    "lines": 98
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/SystemInfo/GroupInfo.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/SystemInfo/GroupInfo.c",
+    "lines": 2896
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/SystemInfo/GroupInfo.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/SystemInfo/GroupInfo.h",
+    "lines": 1629
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/SystemInfo/PileInfo.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/SystemInfo/PileInfo.c",
+    "lines": 737
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/SystemInfo/PileInfo.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/SystemInfo/PileInfo.h",
+    "lines": 444
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/SystemInfo/PublicInfo.c",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/SystemInfo/PublicInfo.c",
+    "lines": 578
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Funtion/SystemInfo/PublicInfo.h",
+    "snapshot": "source-snapshot/BMS/Sources/Funtion/SystemInfo/PublicInfo.h",
+    "lines": 564
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/Balance/BalanTactic.c",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/Balance/BalanTactic.c",
+    "lines": 598
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/Balance/BalanTactic.h",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/Balance/BalanTactic.h",
+    "lines": 82
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/CanUser/AuxDevMsg.c",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/CanUser/AuxDevMsg.c",
+    "lines": 421
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/CanUser/AuxDevMsg.h",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/CanUser/AuxDevMsg.h",
+    "lines": 61
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/CanUser/GroupMsg.c",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/CanUser/GroupMsg.c",
+    "lines": 1411
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/CanUser/GroupMsg.h",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/CanUser/GroupMsg.h",
+    "lines": 302
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/CanUser/GTBmmMsg.c",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/CanUser/GTBmmMsg.c",
+    "lines": 485
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/CanUser/GTBmmMsg.h",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/CanUser/GTBmmMsg.h",
+    "lines": 54
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/CanUser/SlaveMsg.c",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/CanUser/SlaveMsg.c",
+    "lines": 1250
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/CanUser/SlaveMsg.h",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/CanUser/SlaveMsg.h",
+    "lines": 55
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/EventUser/EventUser.c",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/EventUser/EventUser.c",
+    "lines": 1248
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/EventUser/EventUser.h",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/EventUser/EventUser.h",
+    "lines": 125
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/EventUser/RcdDisplayUser.c",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/EventUser/RcdDisplayUser.c",
+    "lines": 397
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/EventUser/RcdDisplayUser.h",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/EventUser/RcdDisplayUser.h",
+    "lines": 149
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/FstChg/ChgTactics.c",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/FstChg/ChgTactics.c",
+    "lines": 373
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/FstChg/ChgTactics.h",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/FstChg/ChgTactics.h",
+    "lines": 50
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/SciUser/HeatModbusMap.c",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/SciUser/HeatModbusMap.c",
+    "lines": 113
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/SciUser/HeatModbusMap.h",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/SciUser/HeatModbusMap.h",
+    "lines": 72
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/SciUser/ModbusMap.c",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/SciUser/ModbusMap.c",
+    "lines": 3418
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/SciUser/ModbusMap.h",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/SciUser/ModbusMap.h",
+    "lines": 672
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/SciUser/SciCtrlHandle.c",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/SciUser/SciCtrlHandle.c",
+    "lines": 398
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/SciUser/SciCtrlHandle.h",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/SciUser/SciCtrlHandle.h",
+    "lines": 141
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/SciUser/SciInfoPoint.c",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/SciUser/SciInfoPoint.c",
+    "lines": 570
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/SciUser/SciInfoPoint.h",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/SciUser/SciInfoPoint.h",
+    "lines": 213
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/SciUser/SciParaHandle.c",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/SciUser/SciParaHandle.c",
+    "lines": 338
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/SciUser/SciParaHandle.h",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/SciUser/SciParaHandle.h",
+    "lines": 141
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/SciUser/SciRcdRead.c",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/SciUser/SciRcdRead.c",
+    "lines": 534
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/SciUser/SciRcdRead.h",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/SciUser/SciRcdRead.h",
+    "lines": 149
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/Tactics/AuxDevTactic.c",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/Tactics/AuxDevTactic.c",
+    "lines": 3841
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/Tactics/AuxDevTactic.h",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/Tactics/AuxDevTactic.h",
+    "lines": 199
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/Tactics/GroupDebug.c",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/Tactics/GroupDebug.c",
+    "lines": 966
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/Tactics/GroupDebug.h",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/Tactics/GroupDebug.h",
+    "lines": 132
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/Tactics/GroupMode.c",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/Tactics/GroupMode.c",
+    "lines": 227
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/Tactics/GroupMode.h",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/Tactics/GroupMode.h",
+    "lines": 61
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/Tactics/GroupProtect.c",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/Tactics/GroupProtect.c",
+    "lines": 646
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/Tactics/GroupProtect.h",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/Tactics/GroupProtect.h",
+    "lines": 110
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/Tactics/GroupState.c",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/Tactics/GroupState.c",
+    "lines": 845
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/Tactics/GroupState.h",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/Tactics/GroupState.h",
+    "lines": 105
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/Tactics/GroupTactic.c",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/Tactics/GroupTactic.c",
+    "lines": 1686
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/Tactics/GroupTactic.h",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/Tactics/GroupTactic.h",
+    "lines": 204
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/Tactics/TacInterface.c",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/Tactics/TacInterface.c",
+    "lines": 971
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/Tactics/TacInterface.h",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/Tactics/TacInterface.h",
+    "lines": 755
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/Tactics/TacUser.c",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/Tactics/TacUser.c",
+    "lines": 1476
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/Logics/Tactics/TacUser.h",
+    "snapshot": "source-snapshot/BMS/Sources/Logics/Tactics/TacUser.h",
+    "lines": 250
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/main.c",
+    "snapshot": "source-snapshot/BMS/Sources/main.c",
+    "lines": 96
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/OSUser/OSUserHOOK.c",
+    "snapshot": "source-snapshot/BMS/Sources/OSUser/OSUserHOOK.c",
+    "lines": 815
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/OSUser/OSUserHOOK.h",
+    "snapshot": "source-snapshot/BMS/Sources/OSUser/OSUserHOOK.h",
+    "lines": 68
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileCalc/PileCalcUtil.c",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileCalc/PileCalcUtil.c",
+    "lines": 147
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileCalc/PileCalcUtil.h",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileCalc/PileCalcUtil.h",
+    "lines": 83
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileCalc/PileDataCalc.c",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileCalc/PileDataCalc.c",
+    "lines": 679
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileCalc/PileDataCalc.h",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileCalc/PileDataCalc.h",
+    "lines": 62
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileCalc/PileLimCalc.c",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileCalc/PileLimCalc.c",
+    "lines": 573
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileCalc/PileLimCalc.h",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileCalc/PileLimCalc.h",
+    "lines": 63
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileCan/PileCatlMsg.c",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileCan/PileCatlMsg.c",
+    "lines": 1393
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileCan/PileCatlMsg.h",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileCan/PileCatlMsg.h",
+    "lines": 56
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileCan/PileDnMsg.c",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileCan/PileDnMsg.c",
+    "lines": 917
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileCan/PileDnMsg.h",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileCan/PileDnMsg.h",
+    "lines": 134
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileCan/PileUpMsg.c",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileCan/PileUpMsg.c",
+    "lines": 1770
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileCan/PileUpMsg.h",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileCan/PileUpMsg.h",
+    "lines": 347
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileDiag/PileDiagCheck.c",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileDiag/PileDiagCheck.c",
+    "lines": 579
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileDiag/PileDiagCheck.h",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileDiag/PileDiagCheck.h",
+    "lines": 165
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileDiag/PileDiagMaker.c",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileDiag/PileDiagMaker.c",
+    "lines": 409
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileDiag/PileDiagMaker.h",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileDiag/PileDiagMaker.h",
+    "lines": 60
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileDiag/PileDiagUser.c",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileDiag/PileDiagUser.c",
+    "lines": 227
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileDiag/PileDiagUser.h",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileDiag/PileDiagUser.h",
+    "lines": 226
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PilePara/PilePara.c",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PilePara/PilePara.c",
+    "lines": 126
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PilePara/PilePara.h",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PilePara/PilePara.h",
+    "lines": 98
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PilePara/PileParaRd.c",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PilePara/PileParaRd.c",
+    "lines": 184
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PilePara/PileParaRd.h",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PilePara/PileParaRd.h",
+    "lines": 53
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PilePara/PileParaWr.c",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PilePara/PileParaWr.c",
+    "lines": 119
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PilePara/PileParaWr.h",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PilePara/PileParaWr.h",
+    "lines": 44
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileSci/PileSciCtrlHd.c",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileSci/PileSciCtrlHd.c",
+    "lines": 398
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileSci/PileSciCtrlHd.h",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileSci/PileSciCtrlHd.h",
+    "lines": 97
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileSci/PileSciInfoPt.c",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileSci/PileSciInfoPt.c",
+    "lines": 801
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileSci/PileSciInfoPt.h",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileSci/PileSciInfoPt.h",
+    "lines": 142
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileSci/PileSciParaHd.c",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileSci/PileSciParaHd.c",
+    "lines": 89
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileSci/PileSciParaHd.h",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileSci/PileSciParaHd.h",
+    "lines": 53
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileStati/PileEnerStat.c",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileStati/PileEnerStat.c",
+    "lines": 156
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileStati/PileEnerStat.h",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileStati/PileEnerStat.h",
+    "lines": 46
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileTact/PileAutoCtrl.c",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileTact/PileAutoCtrl.c",
+    "lines": 1023
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileTact/PileAutoCtrl.h",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileTact/PileAutoCtrl.h",
+    "lines": 100
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileTact/PileProtect.c",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileTact/PileProtect.c",
+    "lines": 557
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileTact/PileProtect.h",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileTact/PileProtect.h",
+    "lines": 112
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileTact/PileStartUp.c",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileTact/PileStartUp.c",
+    "lines": 1314
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileTact/PileStartUp.h",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileTact/PileStartUp.h",
+    "lines": 63
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileTact/PileSysDebug.c",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileTact/PileSysDebug.c",
+    "lines": 448
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileTact/PileSysDebug.h",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileTact/PileSysDebug.h",
+    "lines": 91
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileTact/PileSysMode.c",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileTact/PileSysMode.c",
+    "lines": 403
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileTact/PileSysMode.h",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileTact/PileSysMode.h",
+    "lines": 66
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileTact/PileSysState.c",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileTact/PileSysState.c",
+    "lines": 1391
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileTact/PileSysState.h",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileTact/PileSysState.h",
+    "lines": 161
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileTact/PileTactics.c",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileTact/PileTactics.c",
+    "lines": 682
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileTact/PileTactics.h",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileTact/PileTactics.h",
+    "lines": 144
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileTact/PileTactInterface.c",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileTact/PileTactInterface.c",
+    "lines": 1039
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileTact/PileTactInterface.h",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileTact/PileTactInterface.h",
+    "lines": 301
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileTact/PileTactUser.c",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileTact/PileTactUser.c",
+    "lines": 242
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileTact/PileTactUser.h",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileTact/PileTactUser.h",
+    "lines": 91
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileTact/PileWorkState.c",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileTact/PileWorkState.c",
+    "lines": 375
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileTact/PileWorkState.h",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileTact/PileWorkState.h",
+    "lines": 62
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileUser/PileGroupRcv.c",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileUser/PileGroupRcv.c",
+    "lines": 2670
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileUser/PileGroupRcv.h",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileUser/PileGroupRcv.h",
+    "lines": 718
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileUser/PileUserAPI.c",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileUser/PileUserAPI.c",
+    "lines": 863
+  },
+  {
+    "source": "BMS",
+    "path": "Sources/PileSys/PileUser/PileUserAPI.h",
+    "snapshot": "source-snapshot/BMS/Sources/PileSys/PileUser/PileUserAPI.h",
+    "lines": 209
+  },
+  {
+    "source": "EKF",
+    "path": "docs/EKF_SOC算法测试验证报告.md",
+    "snapshot": "references/EKF/docs/EKF_SOC算法测试验证报告.md",
+    "lines": 310
+  },
+  {
+    "source": "EKF",
+    "path": "docs/工商业储能系统SOC估计算法.md",
+    "snapshot": "references/EKF/docs/工商业储能系统SOC估计算法.md",
+    "lines": 606
+  },
+  {
+    "source": "EKF",
+    "path": "readme.txt",
+    "snapshot": "references/EKF/readme.txt",
+    "lines": 9
+  },
+  {
+    "source": "EKF",
+    "path": "SocEst/ekf_adapter.c",
+    "snapshot": "source-snapshot/EKF/SocEst/ekf_adapter.c",
+    "lines": 103
+  },
+  {
+    "source": "EKF",
+    "path": "SocEst/ekf_adapter.h",
+    "snapshot": "source-snapshot/EKF/SocEst/ekf_adapter.h",
+    "lines": 71
+  },
+  {
+    "source": "EKF",
+    "path": "SocEst/ekf_bms.c",
+    "snapshot": "source-snapshot/EKF/SocEst/ekf_bms.c",
+    "lines": 195
+  },
+  {
+    "source": "EKF",
+    "path": "SocEst/ekf_bms.h",
+    "snapshot": "source-snapshot/EKF/SocEst/ekf_bms.h",
+    "lines": 78
+  },
+  {
+    "source": "EKF",
+    "path": "SocEst/ekf_ocv_spline.h",
+    "snapshot": "source-snapshot/EKF/SocEst/ekf_ocv_spline.h",
+    "lines": 788
+  },
+  {
+    "source": "EKF",
+    "path": "SocEst/ekf_params.h",
+    "snapshot": "source-snapshot/EKF/SocEst/ekf_params.h",
+    "lines": 325
+  },
+  {
+    "source": "EKF",
+    "path": "SocEst/ekf_utils.c",
+    "snapshot": "source-snapshot/EKF/SocEst/ekf_utils.c",
+    "lines": 197
+  }
+]

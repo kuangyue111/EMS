@@ -1,0 +1,25 @@
+{
+  "snapshot_date": "2026-10-19",
+  "files": 1874,
+  "bytes": 121841098,
+  "text_indexed": 1575,
+  "indexed_lines": 496491,
+  "by_source": {
+    "BMS": 1835,
+    "EKF": 39
+  },
+  "by_category": {
+    "Project/configuration/documentation": 35,
+    "Backup": 7,
+    "Build artifact": 1233,
+    "Generated code": 60,
+    "Vendor SDK": 157,
+    "Application": 343,
+    "EKF documentation/artifact": 32,
+    "EKF source": 7
+  },
+  "status": {
+    "text-indexed": 1575,
+    "binary-inventory-only": 299
+  }
+}

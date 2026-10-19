@@ -1,0 +1,366 @@
+{
+  "BMS/.": {
+    "files": 17,
+    "lines": 11418
+  },
+  "BMS/Documentation": {
+    "files": 1,
+    "lines": 853
+  },
+  "BMS/Generated_Code": {
+    "files": 60,
+    "lines": 8467
+  },
+  "BMS/Project_Settings/Linker_Files": {
+    "files": 2,
+    "lines": 386
+  },
+  "BMS/Project_Settings/Startup_Code": {
+    "files": 1,
+    "lines": 535
+  },
+  "BMS/SDK/platform/devices": {
+    "files": 6,
+    "lines": 1190
+  },
+  "BMS/SDK/platform/devices/common": {
+    "files": 1,
+    "lines": 198
+  },
+  "BMS/SDK/platform/devices/S32K146/include": {
+    "files": 2,
+    "lines": 13472
+  },
+  "BMS/SDK/platform/devices/S32K146/startup": {
+    "files": 2,
+    "lines": 338
+  },
+  "BMS/SDK/platform/drivers/inc": {
+    "files": 25,
+    "lines": 13137
+  },
+  "BMS/SDK/platform/drivers/src/adc": {
+    "files": 2,
+    "lines": 2005
+  },
+  "BMS/SDK/platform/drivers/src/clock/S32K1xx": {
+    "files": 7,
+    "lines": 6852
+  },
+  "BMS/SDK/platform/drivers/src/edma": {
+    "files": 5,
+    "lines": 3785
+  },
+  "BMS/SDK/platform/drivers/src/flash": {
+    "files": 1,
+    "lines": 2164
+  },
+  "BMS/SDK/platform/drivers/src/flexcan": {
+    "files": 5,
+    "lines": 7219
+  },
+  "BMS/SDK/platform/drivers/src/flexio": {
+    "files": 4,
+    "lines": 3032
+  },
+  "BMS/SDK/platform/drivers/src/ftm": {
+    "files": 6,
+    "lines": 4698
+  },
+  "BMS/SDK/platform/drivers/src/interrupt": {
+    "files": 1,
+    "lines": 543
+  },
+  "BMS/SDK/platform/drivers/src/lpi2c": {
+    "files": 5,
+    "lines": 4367
+  },
+  "BMS/SDK/platform/drivers/src/lpit": {
+    "files": 2,
+    "lines": 1265
+  },
+  "BMS/SDK/platform/drivers/src/lpspi": {
+    "files": 6,
+    "lines": 3188
+  },
+  "BMS/SDK/platform/drivers/src/lptmr": {
+    "files": 3,
+    "lines": 1755
+  },
+  "BMS/SDK/platform/drivers/src/lpuart": {
+    "files": 5,
+    "lines": 3160
+  },
+  "BMS/SDK/platform/drivers/src/pdb": {
+    "files": 3,
+    "lines": 1174
+  },
+  "BMS/SDK/platform/drivers/src/pins": {
+    "files": 4,
+    "lines": 1674
+  },
+  "BMS/SDK/platform/drivers/src/rtc": {
+    "files": 4,
+    "lines": 1978
+  },
+  "BMS/SDK/platform/drivers/src/trgmux": {
+    "files": 3,
+    "lines": 532
+  },
+  "BMS/SDK/platform/drivers/src/wdog": {
+    "files": 3,
+    "lines": 1086
+  },
+  "BMS/SDK/platform/pal/inc": {
+    "files": 14,
+    "lines": 3015
+  },
+  "BMS/SDK/platform/pal/src/adc": {
+    "files": 3,
+    "lines": 2428
+  },
+  "BMS/SDK/platform/pal/src/can": {
+    "files": 1,
+    "lines": 1109
+  },
+  "BMS/SDK/platform/pal/src/i2c": {
+    "files": 1,
+    "lines": 1467
+  },
+  "BMS/SDK/platform/pal/src/pwm": {
+    "files": 1,
+    "lines": 876
+  },
+  "BMS/SDK/platform/pal/src/spi": {
+    "files": 1,
+    "lines": 1057
+  },
+  "BMS/SDK/platform/pal/src/uart": {
+    "files": 1,
+    "lines": 1191
+  },
+  "BMS/SDK/platform/pal/src/wdg": {
+    "files": 1,
+    "lines": 496
+  },
+  "BMS/SDK/rtos/FreeRTOS_S32K/Source": {
+    "files": 7,
+    "lines": 11520
+  },
+  "BMS/SDK/rtos/FreeRTOS_S32K/Source/include": {
+    "files": 17,
+    "lines": 12260
+  },
+  "BMS/SDK/rtos/FreeRTOS_S32K/Source/portable/GCC/ARM_CM4F": {
+    "files": 2,
+    "lines": 1017
+  },
+  "BMS/SDK/rtos/FreeRTOS_S32K/Source/portable/MemMang": {
+    "files": 1,
+    "lines": 272
+  },
+  "BMS/SDK/rtos/osif": {
+    "files": 2,
+    "lines": 644
+  },
+  "BMS/Sources/Addition/Calibration": {
+    "files": 4,
+    "lines": 2865
+  },
+  "BMS/Sources/Addition/LoadApp": {
+    "files": 2,
+    "lines": 2862
+  },
+  "BMS/Sources/Addition/OperAuth": {
+    "files": 2,
+    "lines": 296
+  },
+  "BMS/Sources/Addition/UserDef": {
+    "files": 2,
+    "lines": 618
+  },
+  "BMS/Sources/Addition/UserProto": {
+    "files": 4,
+    "lines": 3726
+  },
+  "BMS/Sources/BSPSys/BSPCfg": {
+    "files": 2,
+    "lines": 459
+  },
+  "BMS/Sources/BSPSys/BSPUser": {
+    "files": 6,
+    "lines": 1724
+  },
+  "BMS/Sources/BSPSys/Device/BF8915A_driver": {
+    "files": 2,
+    "lines": 2545
+  },
+  "BMS/Sources/BSPSys/Device": {
+    "files": 8,
+    "lines": 3058
+  },
+  "BMS/Sources/BSPSys/Device/FS65_driver": {
+    "files": 7,
+    "lines": 7282
+  },
+  "BMS/Sources/BSPSys/Device/LTC2949_driver": {
+    "files": 4,
+    "lines": 8250
+  },
+  "BMS/Sources/BSPSys/Device/LTC6813_driver": {
+    "files": 4,
+    "lines": 3166
+  },
+  "BMS/Sources/BSPSys/Device/M24512_driver": {
+    "files": 2,
+    "lines": 754
+  },
+  "BMS/Sources/BSPSys/Device/MCP3913_driver": {
+    "files": 2,
+    "lines": 598
+  },
+  "BMS/Sources/BSPSys/Device/RX8010_driver": {
+    "files": 2,
+    "lines": 452
+  },
+  "BMS/Sources/BSPSys/Device/SST26VF064_driver": {
+    "files": 2,
+    "lines": 2040
+  },
+  "BMS/Sources/BSPSys/Driver": {
+    "files": 34,
+    "lines": 6995
+  },
+  "BMS/Sources/BSPSys/Util": {
+    "files": 3,
+    "lines": 524
+  },
+  "BMS/Sources/Funtion/CanLib": {
+    "files": 10,
+    "lines": 6124
+  },
+  "BMS/Sources/Funtion/ChgCan": {
+    "files": 6,
+    "lines": 2812
+  },
+  "BMS/Sources/Funtion/DataCalc": {
+    "files": 14,
+    "lines": 4141
+  },
+  "BMS/Sources/Funtion/Diagnosis": {
+    "files": 12,
+    "lines": 10151
+  },
+  "BMS/Sources/Funtion/EnergyCalc": {
+    "files": 18,
+    "lines": 5752
+  },
+  "BMS/Sources/Funtion/Measurement": {
+    "files": 12,
+    "lines": 9201
+  },
+  "BMS/Sources/Funtion/ModbusLib": {
+    "files": 16,
+    "lines": 4013
+  },
+  "BMS/Sources/Funtion/Parameter": {
+    "files": 22,
+    "lines": 19130
+  },
+  "BMS/Sources/Funtion/PowerManag": {
+    "files": 4,
+    "lines": 787
+  },
+  "BMS/Sources/Funtion/Recording": {
+    "files": 8,
+    "lines": 9534
+  },
+  "BMS/Sources/Funtion/SocLib": {
+    "files": 10,
+    "lines": 4007
+  },
+  "BMS/Sources/Funtion/Statistics": {
+    "files": 10,
+    "lines": 2060
+  },
+  "BMS/Sources/Funtion/SystemInfo": {
+    "files": 6,
+    "lines": 6848
+  },
+  "BMS/Sources/Logics/Balance": {
+    "files": 2,
+    "lines": 680
+  },
+  "BMS/Sources/Logics/CanUser": {
+    "files": 8,
+    "lines": 4039
+  },
+  "BMS/Sources/Logics/EventUser": {
+    "files": 4,
+    "lines": 1919
+  },
+  "BMS/Sources/Logics/FstChg": {
+    "files": 2,
+    "lines": 423
+  },
+  "BMS/Sources/Logics/SciUser": {
+    "files": 12,
+    "lines": 6759
+  },
+  "BMS/Sources/Logics/Tactics": {
+    "files": 16,
+    "lines": 12474
+  },
+  "BMS/Sources": {
+    "files": 1,
+    "lines": 96
+  },
+  "BMS/Sources/OSUser": {
+    "files": 2,
+    "lines": 883
+  },
+  "BMS/Sources/PileSys/PileCalc": {
+    "files": 6,
+    "lines": 1607
+  },
+  "BMS/Sources/PileSys/PileCan": {
+    "files": 6,
+    "lines": 4617
+  },
+  "BMS/Sources/PileSys/PileDiag": {
+    "files": 6,
+    "lines": 1666
+  },
+  "BMS/Sources/PileSys/PilePara": {
+    "files": 6,
+    "lines": 624
+  },
+  "BMS/Sources/PileSys/PileSci": {
+    "files": 6,
+    "lines": 1580
+  },
+  "BMS/Sources/PileSys/PileStati": {
+    "files": 2,
+    "lines": 202
+  },
+  "BMS/Sources/PileSys/PileTact": {
+    "files": 20,
+    "lines": 8665
+  },
+  "BMS/Sources/PileSys/PileUser": {
+    "files": 4,
+    "lines": 4460
+  },
+  "EKF/docs": {
+    "files": 2,
+    "lines": 916
+  },
+  "EKF/.": {
+    "files": 1,
+    "lines": 9
+  },
+  "EKF/SocEst": {
+    "files": 7,
+    "lines": 1757
+  }
+}

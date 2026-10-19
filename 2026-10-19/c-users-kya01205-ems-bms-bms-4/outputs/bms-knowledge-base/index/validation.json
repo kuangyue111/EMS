@@ -1,0 +1,14 @@
+{
+  "artifact_integrity": "pass",
+  "files": 1874,
+  "indexed_documents": 1575,
+  "snapshot_files": 591,
+  "evidence_checks": 11,
+  "source_hashes": "pass",
+  "snapshot_match": "pass",
+  "markdown_links": "pass",
+  "firmware_compilation": "not run",
+  "hardware_tests": "not run",
+  "experiment_reproduction": "not run",
+  "browser_checks": "Homepage, function search, full source dialog and notes verified interactively"
+}
